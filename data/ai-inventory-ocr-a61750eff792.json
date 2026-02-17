@@ -1,0 +1,10 @@
+{
+  "type": "service_account",
+  "project_id": "ai-inventory-ocr",
+  "private_key_id": "a61750eff79254f03e63f4c2bf8f3687955e471d",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/inventory-ocr-bot%40ai-inventory-ocr.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
