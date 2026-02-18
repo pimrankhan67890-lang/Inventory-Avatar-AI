@@ -5,15 +5,12 @@ numpy
 pandas
 faiss-cpu
 
-# audio / voice
+# audio
 gTTS
 soundfile
-openai-whisper
-
-# streaming
-streamlit-webrtc
-
-# search
-duckduckgo-search
-
 scipy
+
+# optional ai tools if used
+openai
+duckduckgo_search
+streamlit-webrtc
